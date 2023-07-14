@@ -2,6 +2,9 @@
 WeatherRunWidget is a widget designed for the iOS system medium widget that provides weather information, real-time date and month, step counting, and distance measurement for running activities.
 
 ## Screen Video
+https://github.com/Ktamim98/WeatherRunWidget/assets/124142522/07f9bbc7-1fdf-4192-b466-6ad846be2ac2
+
+<img width="307" alt="Screenshot 2023-07-14 at 11 57 54 PM" src="https://github.com/Ktamim98/WeatherRunWidget/assets/124142522/0f8b3818-d3d8-44d3-8f5b-9aedd01f60b5">
 
 
 ## Functionality
